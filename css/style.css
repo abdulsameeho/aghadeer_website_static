@@ -2233,27 +2233,6 @@ margin-bottom: 5px;
 }
 
 
-.video-action {
-    background-image: url(../Noodles\ 60x132.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center center;
-    color: #fff;
-    height: 450px;
-    padding-top: 50px;
-	border-radius: 10px;
-}
-
-.video-action h1{
-	color: #a82d49;
-	padding-top:40px;
-}
-
-.video-action p{
-	color: #555;
-	padding-top:20px;
-	font-size: 18px;
-}
 
 
 
@@ -2271,12 +2250,12 @@ margin-bottom: 5px;
 
 .parallax-content2 .overlay {
 	background: #000;
-	opacity: 0.2;
+	opacity: 0;
 }
 
 .parallax-content2 .overlay {
 	background: #000;
-	opacity: 0.4;
+	opacity: 0;
 }
 
 .parallax-content .overlay {
